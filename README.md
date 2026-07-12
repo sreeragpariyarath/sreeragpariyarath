@@ -39,9 +39,8 @@ A web-based media management application.
 
 ## Connect
 
--   LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
--   Portfolio: https://YOUR_DOMAIN
--   Email: your.email@example.com
+-   LinkedIn: https://www.linkedin.com/in/sreerag-p
+-   Email: psreerag69@gmail.com
 
 ------------------------------------------------------------------------
 
