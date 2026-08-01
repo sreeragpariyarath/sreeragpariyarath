@@ -1,17 +1,18 @@
-# Hi, I'm Sreerag 👋
+# Sreerag P
 
-### Full Stack Developer | React • Next.js • TypeScript • Node.js • AWS
+Full Stack Developer specializing in scalable web applications, backend systems, and cloud infrastructure.
 
-I'm a Full Stack Developer from India with experience building scalable web applications, enterprise platforms, and production-ready backend systems. I enjoy solving complex engineering problems, designing maintainable architectures, and delivering performant software from development to deployment.
+I'm a Full Stack Developer from India with experience building enterprise software, production-ready backend systems, and modern web applications. I enjoy solving complex engineering problems, designing scalable architectures, and delivering secure, high-performance software from development to deployment.
 
 ---
 
-## About Me
+## About
 
-- 💼 Full Stack Developer
-- 🚀 Building scalable web applications and enterprise software
-- ⚡ Passionate about backend architecture, performance optimization, and cloud deployment
-- 📚 Continuously improving in distributed systems and software architecture
+- Full Stack Developer with a strong focus on backend engineering
+- Building scalable web applications and enterprise platforms
+- Interested in backend architecture, system design, and performance optimization
+- Experienced with cloud deployment, authentication systems, and API development
+- Continuously learning distributed systems and software architecture
 
 ---
 
@@ -20,19 +21,19 @@ I'm a Full Stack Developer from India with experience building scalable web appl
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
 </p>
 
 ### Cloud & DevOps
@@ -41,11 +42,30 @@ I'm a Full Stack Developer from India with experience building scalable web appl
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github" />
 </p>
 
-### Tools
+### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,docker" />
 </p>
+
+### AI Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Current Focus
+
+- Designing scalable backend architectures
+- Building production-ready REST APIs
+- Performance optimization and Redis caching
+- AWS deployment and infrastructure
+- Clean Architecture and maintainable software design
 
 ---
 
@@ -53,9 +73,9 @@ I'm a Full Stack Developer from India with experience building scalable web appl
 
 ### Warvox CMS
 
-An enterprise-grade Content Management System (CMS) and website platform built for secure content publishing, media management, and scalable website administration.
+Enterprise-grade Content Management System (CMS) and multilingual website platform built for secure content publishing, media management, and scalable website administration.
 
-**Highlights**
+#### Highlights
 
 - Dynamic page & content management
 - Blog & news management
@@ -63,41 +83,43 @@ An enterprise-grade Content Management System (CMS) and website platform built f
 - Role-based authentication & authorization
 - User & permission management
 - SEO management
+- Multilingual content pipeline
 - RESTful API architecture
 - Redis caching
 - Production-ready deployment
 
 **Tech Stack**
 
-> Next.js • React • TypeScript • Node.js • Express • MongoDB • Redis • AWS
+> Next.js • React • TypeScript • Node.js • Express.js • MongoDB • Redis • AWS EC2 • S3 • CloudFront • Route 53
 
 ---
 
 ### QuickBite
 
-A modern food ordering and restaurant management platform that streamlines customer ordering, restaurant operations, and administrative workflows.
+Modern food ordering and restaurant management platform for customers, restaurants, and administrators.
 
-**Highlights**
+#### Highlights
 
-- Customer ordering system
+- Customer ordering platform
 - Restaurant dashboard
 - Admin management portal
 - Order & menu management
 - Role-based access control
 - Analytics dashboard
 - Responsive web application
+- RESTful backend APIs
 
 **Tech Stack**
 
-> React • TypeScript • Node.js • Express • MongoDB • Redis
+> React • TypeScript • Node.js • Express.js • MongoDB • Redis • JWT • Socket.io
 
 ---
 
 ### Hupe Academy
 
-An interactive learning platform for children featuring curriculum management, educational games, and a comprehensive administration portal.
+Interactive learning platform for children featuring curriculum management, educational games, progress tracking, and a comprehensive administration portal.
 
-**Highlights**
+#### Highlights
 
 - Curriculum management
 - Interactive educational games
@@ -106,10 +128,26 @@ An interactive learning platform for children featuring curriculum management, e
 - Audio management system
 - Admin dashboard
 - Performance optimization
+- Secure authentication system
 
 **Tech Stack**
 
-> React • Flutter • Express • MongoDB • AWS
+> React • Node.js • Express.js • MongoDB • Redis • AWS • Socket.io
+
+---
+
+## Core Skills
+
+- Full Stack Development
+- Backend Architecture
+- REST API Development
+- Authentication & Authorization (JWT, OAuth, RBAC)
+- Database Design
+- Redis Caching
+- Performance Optimization
+- AWS Cloud Deployment
+- Clean Architecture
+- Responsive UI Development
 
 ---
 
@@ -126,25 +164,10 @@ An interactive learning platform for children featuring curriculum management, e
 
 ---
 
-## Core Skills
-
-- Full Stack Development
-- REST API Development
-- Authentication & Authorization
-- Enterprise Dashboard Development
-- Content Management Systems
-- Performance Optimization
-- Database Design
-- Cloud Deployment
-- Clean Architecture
-- Responsive UI Development
-
----
-
-## Connect With Me
+## Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sreerag-p">
+  <a href="https://www.linkedin.com/in/sreerag-p" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -155,4 +178,4 @@ An interactive learning platform for children featuring curriculum management, e
 
 ---
 
-> **Building scalable, secure, and production-ready software with a focus on clean architecture, maintainability, and performance.**
+> *Building scalable, secure, and production-ready software with a focus on clean architecture, maintainability, and performance.*
