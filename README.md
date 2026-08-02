@@ -1,181 +1,209 @@
-# Sreerag P
+# Hi, I'm Sreerag P 👋
 
-Full Stack Developer specializing in scalable web applications, backend systems, and cloud infrastructure.
-
-I'm a Full Stack Developer from India with experience building enterprise software, production-ready backend systems, and modern web applications. I enjoy solving complex engineering problems, designing scalable architectures, and delivering secure, high-performance software from development to deployment.
-
----
-
-## About
-
-- Full Stack Developer with a strong focus on backend engineering
-- Building scalable web applications and enterprise platforms
-- Interested in backend architecture, system design, and performance optimization
-- Experienced with cloud deployment, authentication systems, and API development
-- Continuously learning distributed systems and software architecture
-
----
-
-## Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+<p align="center">
+  <strong>Full Stack Developer • Open Source Builder • AI Enthusiast</strong>
 </p>
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest" />
+<p align="center">
+Building scalable backend systems, developer tools, AI-powered applications, and modern web platforms.
 </p>
 
-### Database
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
-</p>
+<a href="https://github.com/sponsors/sreeragpariyarath">
+<img src="https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github"/>
+</a>
 
-### Cloud & DevOps
+<a href="https://www.linkedin.com/in/sreerag-p">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github" />
-</p>
+<a href="mailto:psreerag69@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,docker" />
-</p>
-
-### AI Tools
-
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## Current Focus
+# 🚀 Currently Building
 
-- Designing scalable backend architectures
-- Building production-ready REST APIs
-- Performance optimization and Redis caching
-- AWS deployment and infrastructure
-- Clean Architecture and maintainable software design
+### 🧠 Norix
 
----
+**Offline-first Repository Intelligence CLI**
 
-## Featured Projects
+Analyze unfamiliar repositories, detect technologies, understand architecture, and generate insights to help developers onboard faster.
 
-### Warvox CMS
+### Current Focus
 
-Enterprise-grade Content Management System (CMS) and multilingual website platform built for secure content publishing, media management, and scalable website administration.
-
-#### Highlights
-
-- Dynamic page & content management
-- Blog & news management
-- Media library
-- Role-based authentication & authorization
-- User & permission management
-- SEO management
-- Multilingual content pipeline
-- RESTful API architecture
-- Redis caching
-- Production-ready deployment
-
-**Tech Stack**
-
-> Next.js • React • TypeScript • Node.js • Express.js • MongoDB • Redis • AWS EC2 • S3 • CloudFront • Route 53
+- AI-powered Developer Tools
+- Repository Intelligence
+- Backend Architecture
+- System Design
+- Performance Engineering
+- Clean Architecture
 
 ---
 
-### QuickBite
+# ❤️ Open Source
 
-Modern food ordering and restaurant management platform for customers, restaurants, and administrators.
+I enjoy building practical software that solves real engineering problems.
 
-#### Highlights
+My current work focuses on:
 
-- Customer ordering platform
+- AI-powered developer tools
+- Repository intelligence
+- Backend infrastructure
+- CLI applications
+- Modern web platforms
+- Productivity software
+
+If one of my projects helps your work, consider supporting future development through **GitHub Sponsors**.
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github"/>
+</p>
+
+## Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,docker"/>
+</p>
+
+## AI Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+# 📦 Featured Projects
+
+## 🧠 Norix
+
+Offline-first Repository Intelligence CLI for analyzing repositories, detecting technologies, and generating architecture insights.
+
+**Highlights**
+
+- Repository analysis
+- Technology detection
+- Architecture visualization
+- Dependency insights
+- Developer productivity
+
+---
+
+## 🍔 QuickBite
+
+Modern food ordering and restaurant management platform.
+
+**Highlights**
+
+- Customer ordering
 - Restaurant dashboard
-- Admin management portal
-- Order & menu management
-- Role-based access control
-- Analytics dashboard
-- Responsive web application
-- RESTful backend APIs
-
-**Tech Stack**
-
-> React • TypeScript • Node.js • Express.js • MongoDB • Redis • JWT • Socket.io
+- Admin portal
+- Analytics
+- REST APIs
 
 ---
 
-### Hupe Academy
+## 📚 Hupe Academy
 
-Interactive learning platform for children featuring curriculum management, educational games, progress tracking, and a comprehensive administration portal.
+Interactive educational platform for children.
 
-#### Highlights
+**Highlights**
 
 - Curriculum management
-- Interactive educational games
-- Student progress tracking
-- Asset & content management
-- Audio management system
-- Admin dashboard
+- Educational games
+- Progress tracking
+- Content management
+- Audio system
 - Performance optimization
-- Secure authentication system
-
-**Tech Stack**
-
-> React • Node.js • Express.js • MongoDB • Redis • AWS • Socket.io
 
 ---
 
-## Core Skills
+# 💡 Areas of Interest
 
-- Full Stack Development
-- Backend Architecture
-- REST API Development
-- Authentication & Authorization (JWT, OAuth, RBAC)
-- Database Design
-- Redis Caching
+- Artificial Intelligence
+- Backend Engineering
+- Distributed Systems
+- System Design
+- Developer Experience (DX)
 - Performance Optimization
-- AWS Cloud Deployment
 - Clean Architecture
-- Responsive UI Development
+- Open Source
 
 ---
 
-## GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sreeragpariyarath&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sreeragpariyarath&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreeragpariyarath&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeragpariyarath&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sreeragpariyarath&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=sreeragpariyarath&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## Connect
+# 📫 Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sreerag-p" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p>
 
-  <a href="mailto:psreerag69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/sreerag-p">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:psreerag69@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sponsors/sreeragpariyarath">
+<img src="https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-> *Building scalable, secure, and production-ready software with a focus on clean architecture, maintainability, and performance.*
+> **Building practical software, contributing to open source, and creating developer tools that solve real-world engineering problems.**
