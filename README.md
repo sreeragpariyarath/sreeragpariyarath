@@ -176,12 +176,11 @@ Interactive educational platform for children.
 
 <p align="center">
   <img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" />
-  <img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-  <img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img width="100%" src="profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
 
 ---
