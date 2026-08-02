@@ -171,17 +171,17 @@ Interactive educational platform for children.
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreeragpariyarath&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeragpariyarath&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="profile-summary-card-output/github_dark/profile-details.svg" />
 </p>
 
 <p align="center">
+  <img width="49%" src="profile-summary-card-output/github_dark/stats.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/repos-per-language.svg" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=sreeragpariyarath&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img width="49%" src="profile-summary-card-output/github_dark/most-commit-language.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/productive-time.svg" />
 </p>
 
 ---
