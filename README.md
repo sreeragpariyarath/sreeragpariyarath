@@ -180,7 +180,8 @@ Interactive educational platform for children.
 </p>
 
 <p align="center">
-  <img width="100%" src="profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img width="49%" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 </p>
 
 ---
