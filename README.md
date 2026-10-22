@@ -1,174 +1,201 @@
-# Hi, I'm Sreerag P 👋
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Developer • Open Source Builder • AI Enthusiast</strong>
-</p>
+# Sreerag P
 
-<p align="center">
-Building scalable backend systems, developer tools, AI-powered applications, and modern web platforms.
-</p>
+### Full Stack Engineer · TypeScript · React & Next.js · Node.js APIs
 
-<p align="center">
+*I ship production web apps, backend APIs and developer tools, from schema design to deployment.*
 
-<a href="https://github.com/sponsors/sreeragpariyarath">
-<img src="https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/sreerag-p">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-sreerag.pages.dev-1F5F8B?style=for-the-badge&logo=cloudflare&logoColor=white)](https://sreerag.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sreerag--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreerag-p)
+[![Email](https://img.shields.io/badge/Email-psreerag69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psreerag69@gmail.com)
+[![npm](https://img.shields.io/badge/npm-@erris/core-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@erris/core)
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sreeragpariyarath)
 
-<a href="mailto:psreerag69@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🚀 Currently Building
+## ⚡ Snapshot
+
+| | |
+|---|---|
+| 🧑‍💻 **Focus** | Full stack web apps, backend APIs, developer tooling |
+| 🏗️ **Shipped** | A children's learning app live on **Google Play** and the **App Store** |
+| 📦 **Published** | [`@erris/core`](https://www.npmjs.com/package/@erris/core) on npm, with trusted publishing and CodeQL |
+| 🧭 **Experience** | About 1 year full-time, plus freelance MERN work since 2023 |
+| 📍 **Based in** | Kerala, India · open to full stack roles in Kochi or remote |
+
+---
+
+## 🔭 Now
+
+- 🧠 **Norix**: an offline-first repository intelligence CLI that maps unfamiliar codebases
+- 🏛️ Backend architecture, system design and performance
+- 🤖 Practical AI-assisted workflows: Claude Code and Copilot in daily development
+
+---
+
+## 🚢 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Norix
+**Offline-first repo intelligence CLI**
 
-**Offline-first Repository Intelligence CLI**
+Analyzes an unfamiliar repository, detects its stack, maps its architecture and produces onboarding insights.
 
-Analyze unfamiliar repositories, detect technologies, understand architecture, and generate insights to help developers onboard faster.
+`Node.js` `CLI` `Static analysis`
 
-### Current Focus
+</td>
+<td width="50%" valign="top">
 
-- AI-powered Developer Tools
-- Repository Intelligence
-- Backend Architecture
-- System Design
-- Performance Engineering
-- Clean Architecture
+### 🌐 Personal Portfolio
+**[sreerag.pages.dev](https://sreerag.pages.dev)**
 
----
+A TypeScript site with Next.js 16 and React 19, Drizzle ORM for data, Playwright end-to-end tests, and deployment on Cloudflare.
 
-# ❤️ Open Source
+`Next.js` `React 19` `TypeScript` `Drizzle` `Playwright` `Cloudflare`
 
-I enjoy building practical software that solves real engineering problems.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-My current work focuses on:
+### 📚 LearnWithHupe Academy
+**Children's learning platform · Google Play & App Store**
 
-- AI-powered developer tools
-- Repository intelligence
-- Backend infrastructure
-- CLI applications
-- Modern web platforms
-- Productivity software
+- Subscription billing across Google Play and Apple server APIs
+- Curriculum management, progress tracking and offline-first sync
+- Role-based admin panel and content pipeline
 
-If one of my projects helps your work, consider supporting future development through **GitHub Sponsors**.
+`Node.js` `Express` `MongoDB` `Redis` `React` `AWS` `Nginx`
 
----
+</td>
+<td width="50%" valign="top">
 
-# 🛠 Tech Stack
+### 🛡️ Erris
+**[@erris/core on npm](https://www.npmjs.com/package/@erris/core)**
 
-## Frontend
+Framework-agnostic error contracts for JavaScript and TypeScript, with RFC 9457 Problem Details responses and adapters for Zod and Prisma.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
-</p>
+`TypeScript` `npm` `CI` `CodeQL` `Trusted publishing`
 
-## Backend
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest"/>
-</p>
+### 🎮 Warox
+**Gaming platform · public website and CMS**
 
-## Database
+- Public site in Next.js and TypeScript
+- RBAC admin backend and CMS
+- Multilingual content pipeline for 11 languages, including right-to-left
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis"/>
-</p>
+`Next.js` `TypeScript` `Node.js` `MongoDB` `Redis` `Stripe`
 
-## Cloud & DevOps
+</td>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github"/>
-</p>
+### 🍔 QuickBite
+**Food ordering and restaurant platform**
 
-## Developer Tools
+Customer ordering, a restaurant dashboard and an admin portal, built as NestJS microservices with a Next.js frontend.
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,docker"/>
-</p>
+`NestJS` `Next.js` `Microservices` `REST APIs`
 
-## AI Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📦 Featured Projects
+## 🧰 Skills
 
-## 🧠 Norix
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Offline-first Repository Intelligence CLI for analyzing repositories, detecting technologies, and generating architecture insights.
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Phaser](https://img.shields.io/badge/Phaser.js-F5A623?style=flat-square)
 
-**Highlights**
+**Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-- Repository analysis
-- Technology detection
-- Architecture visualization
-- Dependency insights
-- Developer productivity
+**Auth & Security**
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-4B5563?style=flat-square)
+![Helmet](https://img.shields.io/badge/Helmet-000000?style=flat-square)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Cloud & DevOps**
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers_·_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2_·_S3_·_CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Testing**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI-assisted development**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
+
+**Tools & Open Source**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm_publishing-CB3837?style=flat-square&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
 
 ---
 
-## 🍔 QuickBite
+## 🧭 How I work
 
-Modern food ordering and restaurant management platform.
-
-**Highlights**
-
-- Customer ordering
-- Restaurant dashboard
-- Admin portal
-- Analytics
-- REST APIs
+- **Start from the data.** Schemas, indexes and access rules come before the screens.
+- **Ship with tests.** Unit tests for logic, end-to-end tests for flows, regression tests for production bugs.
+- **Write it down.** Technical handover documents, design RFCs and clear commit history.
+- **Use AI, review everything.** AI tools speed up the work, and I check their output before it ships.
 
 ---
 
-## 📚 Hupe Academy
-
-Interactive educational platform for children.
-
-**Highlights**
-
-- Curriculum management
-- Educational games
-- Progress tracking
-- Content management
-- Audio system
-- Performance optimization
-
----
-
-# 💡 Areas of Interest
-
-- Artificial Intelligence
-- Backend Engineering
-- Distributed Systems
-- System Design
-- Developer Experience (DX)
-- Performance Optimization
-- Clean Architecture
-- Open Source
-
----
-
-# 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" />
@@ -186,24 +213,12 @@ Interactive educational platform for children.
 
 ---
 
-# 📫 Connect
+<div align="center">
 
-<p>
+### 📫 Let's build something
 
-<a href="https://www.linkedin.com/in/sreerag-p">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-sreerag.pages.dev-1F5F8B?style=for-the-badge&logo=cloudflare&logoColor=white)](https://sreerag.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sreerag--p-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreerag-p)
+[![Email](https://img.shields.io/badge/Email-psreerag69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psreerag69@gmail.com)
 
-<a href="mailto:psreerag69@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sponsors/sreeragpariyarath">
-<img src="https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-> **Building practical software, contributing to open source, and creating developer tools that solve real-world engineering problems.**
+</div>
